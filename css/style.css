@@ -15,7 +15,7 @@ main {
   height: 497px;
   margin: auto 0;
   background: #fff;
-  padding: 20px;
+  padding: 16px;
   border-radius: 20px;
 }
 
@@ -32,6 +32,9 @@ h1 {
 
 p {
   color: #7d889e;
+  margin: 16px 16px 40px 16px;
+  padding: 0 16px;
+  letter-spacing: 0.188px;
 }
 
 footer {
