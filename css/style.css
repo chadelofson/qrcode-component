@@ -24,19 +24,24 @@ main {
   background: #2c7dfa;
   padding: 60px;
   border-radius: 10px;
+  margin: 0 0 24px 0;
+}
+
+img {
+  margin: 0;
 }
 
 h1 {
   font-size: 22px;
   color: #000;
-  margin-top: 24px;
+  margin: 0 0 16px 0;
 }
 
 p {
   color: #7d889e;
-  margin: 16px 16px 20px 16px;
   padding: 0 16px;
   letter-spacing: 0.188px;
+  margin: 0 16px;
 }
 
 footer {
