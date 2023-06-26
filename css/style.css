@@ -1,6 +1,6 @@
 body {
   background: #d5e1ef;
-  font-family: 'Outfit', sans-serif;
+  font-family: "Outfit", sans-serif;
   text-align: center;
   font-size: 15px;
   display: flex;
@@ -40,7 +40,10 @@ p {
 }
 
 footer {
-  margin-top: auto;
+  position: absolute;
+  bottom: 0px;
+  left: 0px;
+  right: 0px;
 }
 
 .attribution {
@@ -51,5 +54,3 @@ footer {
 .attribution a {
   color: hsl(228, 45%, 44%);
 }
-
-
